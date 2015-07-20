@@ -18,4 +18,4 @@ When exporting, settings to use:
 - Apply Modifiers: true
 - all other settings as default.
 
-Refer to [http://www.skylineswiki.com/Asset_Editor]
+Refer to http://www.skylineswiki.com/Asset_Editor for more information.
