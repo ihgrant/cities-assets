@@ -1,0 +1,6 @@
+The first of a series of factory assets based on the Alcoa plant in Lafayette, IN, USA. This is the first asset I've made so any feedback or advice is appreciated!
+
+RICO enabled - level 3 generic industry providing 120 jobs. If you don't have the RICO mod, it just functions as a park.
+
+1870 tris / 512x512 texture
+LOD: 170 tris / 128x128 texture. 

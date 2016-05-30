@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PloppableRICODefinition>
+  <Buildings>
+    <Building name="Alcoa Modular Factory A (RICO)" service="industrial" sub-service="generic" level="3" workplaces="50" homes="0" construction-cost="30000" ui-category="industrial"></Building>
+  </Buildings>
+</PloppableRICODefinition>
