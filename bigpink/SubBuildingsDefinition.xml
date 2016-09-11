@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SubBuildingsDefinition>
+  <Buildings>
+    <Building name="bigpink.bigpink">
+      <SubBuildings>
+        <SubBuilding name="bigpink_sub.bigpink_sub" pos-x="67.05" pos-y="0" pos-z="-5.5" angle="-90" fixed-height="true" />
+      </SubBuildings>
+    </Building>
+  </Buildings>
+</SubBuildingsDefinition>
